@@ -89,6 +89,12 @@ FocusFlow AI follows a modular AI-assisted architecture:
 
 ---
 
+## Architecture Diagram
+
+![System Architecture](architecture01.png)
+
+---
+
 ## Architecture Flow
 
 Developer  
@@ -151,22 +157,4 @@ FocusFlow AI enables:
 
 ---
 
-## Repository Structure
 
-```
-BWT_TechTitans/
-│
-├── README.md
-├── architecture/
-│   └── architecture_diagram.png
-├── backend/
-├── frontend/
-└── docs/
-```
-
----
-
-## Conclusion
-
-FocusFlow AI is not just a code assistant.  
-It is a productivity infrastructure layer designed to preserve developer context, reduce cognitive load, and enable uninterrupted focus in modern software development environments.
