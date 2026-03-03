@@ -95,7 +95,7 @@ FocusFlow AI follows a modular AI-assisted architecture:
 
 ## Architecture Diagram
 
-![System Architecture](architecture01.png)
+![System Architecture](architecture01jpg.jpg)
 
 ---
 
